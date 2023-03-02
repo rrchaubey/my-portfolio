@@ -5,3 +5,5 @@ In addition to my work at Genpact, I'm also an active member of the data science
 When I'm not busy with work or Kaggle, I enjoy reading about the latest advancements in AI and machine learning, and experimenting with new tools and techniques to stay ahead of the curve.
 
 Overall, I'm passionate about using data to drive meaningful insights and decisions, and I'm committed to continuously learning and growing in this field.
+
+### Take a look around, and feel free to contact me if you have any questions or opportunities to collaborate.
