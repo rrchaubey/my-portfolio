@@ -2,6 +2,16 @@
   #style.css
 \*-----------------------------------*/
 
+/* Personal Addition */
+
+a {
+  color: white;
+}
+
+a:hover {
+  color: yellow;
+}
+
 
 /**
  * copyright 2022 @codewithsadee
