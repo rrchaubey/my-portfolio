@@ -1,4 +1,4 @@
-# Master SQL in a Snap with this Three-Page Cheat Sheet!
+# Master SQL in a Snap with this Three-Page Cheat Sheet
 
 Are you looking to master SQL and manage data in relational databases? Look no further than this three-page SQL cheat sheet! 
 
